@@ -1,0 +1,6 @@
+@echo
+echo Opening Chrome
+Start Chrome.exe
+pause
+Stop
+:: ye ik its a very simple program but it works!
